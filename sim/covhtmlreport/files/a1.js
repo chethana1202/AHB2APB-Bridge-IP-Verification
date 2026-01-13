@@ -1,2 +1,0 @@
-var g_data = {"16":{"pr":"/bridge_pkg","ty":2,"dui":3,"dun":"work.bridge_pkg","asserts":[{"n":["ahb_incr_sequence/body/#ublk#182321127#49/immed__52"],"h":[0,1]},{"n":["virtual_sequence_base/body/immed__13"],"h":[0,1]}],"ad":0}}
-processAssertionsData(g_data);
